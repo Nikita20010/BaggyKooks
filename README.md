@@ -6,38 +6,38 @@
 
 ## Preview
 
-![Baggykooks Theme Screenshot](assets/screenshot-Frontpage1.png)
+![Baggykooks Theme Screenshot](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/screenshot-Frontpage1.png?raw=true)
 
 ---
 ## Theme Screenshots
 
 ### Front Page
 
-![Front Page](assets/screenshot-Frontpage1.png)
-![Front Page](assets/screenshot-Frontpage2.png)
-![Front Page](assets/screenshot-Frontpage3.png)
+![Front Page](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/screenshot-Frontpage1.png?raw=true)
+![Front Page](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/screenshot-Frontpage2.png?raw=true)
+![Front Page](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/screenshot-Frontpage3.png?raw=true)
 
 ---
 
 ### Blog Template
 
-![Blog Template](assets/blog_with_sidebar.png)
+![Blog Template](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/blog_with_sidebar.png?raw=true)
 
 ---
 ### Single Post Template
 
-![Single Post](assets/single_post.png)
+![Single Post](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/screenshot-single_post.png?raw=true)
 
 ---
 ### Single Product Template
 
-![Single Product](assets/single_product.png)
+![Single Product](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/single_product.png?raw=true)
 
 ---
 
 ### About Page
 
-![About Page](assets/about.png)
+![About Page](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/about.png?raw=true)
 
 
 ## Features
