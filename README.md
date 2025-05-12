@@ -6,7 +6,7 @@
 
 ## Preview
 
-![Baggykooks Theme Screenshot](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/screenshot-Frontpage1.png?raw=true)
+![Baggykooks Theme Screenshot](https://github.com/Nikita20010/BaggyKooks/blob/d2f92d425b0b9d5677f99e576db522583ab9f272/assets/Images/screenshot_Frontpage1.png)
 
 ---
 ## Theme Screenshots
