@@ -39,6 +39,7 @@
 
 ![About Page](https://github.com/Nikita20010/BaggyKooks/blob/f2b4643c86b947eddc9246901d9b27db99ad39b1/assets/Images/about.png)
 
+---
 
 ## Features
 
