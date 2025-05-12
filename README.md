@@ -13,31 +13,31 @@
 
 ### Front Page
 
-![Front Page](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/screenshot-Frontpage1.png?raw=true)
-![Front Page](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/screenshot-Frontpage2.png?raw=true)
-![Front Page](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/screenshot-Frontpage3.png?raw=true)
+![Front Page](https://github.com/Nikita20010/BaggyKooks/blob/d2f92d425b0b9d5677f99e576db522583ab9f272/assets/Images/screenshot_Frontpage1.png)
+![Front Page](https://github.com/Nikita20010/BaggyKooks/blob/f2b4643c86b947eddc9246901d9b27db99ad39b1/assets/Images/screenshot_Frontpage2.png)
+![Front Page](https://github.com/Nikita20010/BaggyKooks/blob/f2b4643c86b947eddc9246901d9b27db99ad39b1/assets/Images/screenshot_Frontpage3.png)
 
 ---
 
 ### Blog Template
 
-![Blog Template](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/blog_with_sidebar.png?raw=true)
+![Blog Template](https://github.com/Nikita20010/BaggyKooks/blob/f2b4643c86b947eddc9246901d9b27db99ad39b1/assets/Images/blog_with_sidebar.png)
 
 ---
 ### Single Post Template
 
-![Single Post](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/screenshot-single_post.png?raw=true)
+![Single Post](https://github.com/Nikita20010/BaggyKooks/blob/f2b4643c86b947eddc9246901d9b27db99ad39b1/assets/Images/single_post.png)
 
 ---
 ### Single Product Template
 
-![Single Product](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/single_product.png?raw=true)
+![Single Product](https://github.com/Nikita20010/BaggyKooks/blob/f2b4643c86b947eddc9246901d9b27db99ad39b1/assets/Images/single_product.png)
 
 ---
 
 ### About Page
 
-![About Page](https://github.com/Nikita20010/BaggyKooks/blob/master/assets/about.png?raw=true)
+![About Page](https://github.com/Nikita20010/BaggyKooks/blob/f2b4643c86b947eddc9246901d9b27db99ad39b1/assets/Images/about.png)
 
 
 ## Features
